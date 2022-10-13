@@ -10,3 +10,9 @@ h1
     color: rgb(255, 255, 255);
     background-color: rgb(27, 238, 27);
     font-size: 50pt;
+}
+
+p
+{
+    text-align: center;
+    font-size: 14pt;
