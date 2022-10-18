@@ -14,3 +14,8 @@ th, td {
 table, th, td {
   border: 2px ;
 }
+p
+{
+text-align: center;
+font-size: 10px;
+}
