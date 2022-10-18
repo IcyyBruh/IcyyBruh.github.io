@@ -26,8 +26,9 @@ section.inspire
 }
 div.home
 { text-align: center;
-  font-size: 30px
+  font-size: 30px;
  }
 ul
-{ Font-size: 25px    
-}
+{ Font-size: 30px;
+  text-align: center;
+ }
