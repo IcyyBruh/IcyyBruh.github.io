@@ -13,7 +13,7 @@ h1
 h2
 { text-align: center;
   color: rgb(0, 0, 0);
-  font-size: 30pt;
+  font-size: 25pt;
 }
 p
 { text-align: center;
@@ -29,6 +29,6 @@ div.home
   font-size: 30px;
  }
 ul
-{ Font-size: 30px;
+{ Font-size: 25px;
   text-align: center;
  }
