@@ -7,17 +7,17 @@ body {
 h1.index { text-align: left;
   color: rgb(255, 255, 255);
   background-color: rgb(27, 238, 27);
-  font-size: 50pt;
+  font-size: 50px;
 }
 h2.index { text-align: left;
   color: rgb(0, 0, 0);
-  font-size: 25pt;
+  font-size: 25px;
 }
 div.index {
-  text-align: right;
+  text-align: left;
   font-size: 30px;
 }
 p.index { text-align: left;
   color: rgb(0, 0, 0);
-  font-size: 15pt;
+  font-size: 20px;
 }
