@@ -1,1 +1,34 @@
+#inspirepic { border-radius: 8px;
+}
 
+#profilepic { border-radius: 8px;
+}
+
+h1
+{ text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(27, 238, 27);
+  font-size: 50pt;
+}
+h2
+{ text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 25pt;
+}
+p
+{ text-align: center;
+  font-size: 14pt;
+}
+section.inspire
+{ text-align: center;
+    color: black;
+    font-size: 20px; 
+}
+div.home
+{ text-align: center;
+  font-size: 30px;
+ }
+ul
+{ Font-size: 25px;
+  text-align: center;
+ }
