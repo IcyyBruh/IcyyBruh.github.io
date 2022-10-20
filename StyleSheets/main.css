@@ -1,34 +1,24 @@
-#inspirepic { border-radius: 8px;
+body {
+  background-color: blue;
+  opacity: 0.3;
 }
-
-#profilepic { border-radius: 8px;
+#indexlogo {
+  border-radius: 8px;
 }
-
-h1
-{ text-align: center;
+h1.index { text-align: left;
   color: rgb(255, 255, 255);
   background-color: rgb(27, 238, 27);
   font-size: 50pt;
 }
-h2
-{ text-align: center;
+h2.index { text-align: left;
   color: rgb(0, 0, 0);
   font-size: 25pt;
 }
-p
-{ text-align: center;
-  font-size: 14pt;
-}
-section.inspire
-{ text-align: center;
-    color: black;
-    font-size: 20px; 
-}
-div.home
-{ text-align: center;
+div.index {
+  text-align: right;
   font-size: 30px;
- }
-ul
-{ Font-size: 25px;
-  text-align: center;
- }
+}
+p.index { text-align: left;
+  color: rgb(0, 0, 0);
+  font-size: 15pt;
+}
