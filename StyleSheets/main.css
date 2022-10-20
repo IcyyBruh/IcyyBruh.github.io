@@ -9,12 +9,25 @@ h1.index { text-align: left;
   background-color: Black;
   font-size: 50px;
 }
+h1.amuse { text-align: left;
+  color: rgb(255, 255, 255);
+  background-color: Black;
+  font-size: 50px;
+}
 h2.index { text-align: left;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+h2.amuse { text-align: left;
   color: rgb(0, 0, 0);
   font-size: 25px;
 }
 div.index {
   text-align: left;
+  font-size: 20px;
+}
+div.amuse {
+  text-align: center;
   font-size: 20px;
 }
 p.index { text-align: left;
